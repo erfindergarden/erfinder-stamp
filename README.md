@@ -1,28 +1,34 @@
-# erfinderkerze
+# erfinder-stamp
 
-This a stemp designed in tinkercad and printed with a 3D printer and cut with a lasercutter.
+This a stemp designed in tinkercad and printed with a 3D printer and cut with a lasercutter at the open lab on 17.3.2018. 
 
+Short link: [https://git.io/stempel](https://git.io/stempel)
 
-![](stempel.jpg)
+![](stamp.gif)
 
 
 
 ## make one youself
 
+You need a 3d printer or a lasercutter to make this stamp.
 
-* 2d
-* 3d
-* lasersettings 
-* material
+
+* stl file 
+* [tinkercad link](https://www.tinkercad.com/things/8OM9B7f5Amr-stempel-anton/editv2?sharecode=yRd7hq-T_3WyIN5jCARA_ZOQ_PXWMZ6ZoOy7MRleqlk=)
+* change the design in tinkercad
+* 3D print the base and the handle
+* rubber for lassercutter
+* lasercutter
 
 ## How you can help?
 
-* make a stamp yourself
+* make a stamp yourself and send us the pictures
 * make a parametric design
+* make a version for only lasercutter
 
 ## Designer
 
-Anton Stauber
+Anton Stauber and his father
 
 
 ## Contact erfindergarden
