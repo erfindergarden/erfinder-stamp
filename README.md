@@ -1,34 +1,33 @@
 # erfinder-stamp
 
-This a stemp designed in tinkercad and printed with a 3D printer and cut with a lasercutter at the open lab on 17.3.2018. 
+This a stamp designed in tinkercad and made with the help of 3D printer and the [erfindergarden](http://erfindergarden.de) open lab day on 17.3.2018. 
 
 Short link: [https://git.io/stempel](https://git.io/stempel)
 
 ![](stamp.gif)
 
 
+## Make one yourself
 
-## make one youself
-
-You need a 3d printer or a lasercutter to make this stamp.
+You need a 3d printer or a lasercutter to make this stamp. To document use your phone and make gif with [giphy.com](https://giphy.com)
 
 
-* stl file 
-* [tinkercad link](https://www.tinkercad.com/things/8OM9B7f5Amr-stempel-anton/editv2?sharecode=yRd7hq-T_3WyIN5jCARA_ZOQ_PXWMZ6ZoOy7MRleqlk=)
-* change the design in tinkercad
-* 3D print the base and the handle
-* rubber for lassercutter
-* lasercutter
+* get our stl file 
+* or change the design with this [tinkercad link](https://www.tinkercad.com/things/8OM9B7f5Amr-stempel-anton/editv2?sharecode=yRd7hq-T_3WyIN5jCARA_ZOQ_PXWMZ6ZoOy7MRleqlk=)
+* 3D print the base and the handle (no support needed but use raft)
+* laser the rubber
+* we used a Zing 30 W
+
 
 ## How you can help?
 
-* make a stamp yourself and send us the pictures
+* make a stamp yourself and send us the gif
 * make a parametric design
 * make a version for only lasercutter
 
 ## Designer
 
-Anton Stauber and his father
+Anton Stauber and his father 
 
 
 ## Contact erfindergarden
