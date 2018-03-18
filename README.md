@@ -1,6 +1,6 @@
 # erfinder-stamp
 
-This a stamp designed in tinkercad and made with the help of 3D printer and the [erfindergarden](http://erfindergarden.de) open lab day on 17.3.2018. 
+This a stamp designed in tinkercad and made with the help of a 3D printer and laser cutter at the [erfindergarden](http://erfindergarden.de) open lab day on 17.3.2018. 
 
 Short link: [https://git.io/stempel](https://git.io/stempel)
 
@@ -9,7 +9,7 @@ Short link: [https://git.io/stempel](https://git.io/stempel)
 
 ## Make one yourself
 
-You need a 3d printer or a lasercutter to make this stamp. To document use your phone and make gif with [giphy.com](https://giphy.com)
+You need a 3d printer or a lasercutter to make this stamp. To document make pictures of every step and make a gif with [giphy.com](https://giphy.com)
 
 
 * get our stl file 
